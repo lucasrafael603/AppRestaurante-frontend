@@ -1,0 +1,28 @@
+
+#home{
+
+  display: flex;
+	flex-direction: column;
+	flex-wrap: nowrap;
+	justify-content: flex-start;
+	align-items: center;
+  align-content: center;
+  
+}
+
+button{
+
+  color: white !important;
+  font-weight: bolder;
+  background-color: black;
+  cursor: pointer;
+  margin-top: 10px;
+
+}
+
+input{
+
+  width: 40%;
+  height: 25px;
+
+}
